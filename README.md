@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alvi75
-- 👀 I’m interested in NLP 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Bengali NLP Deployment
-- 📫 How to reach me Whatsapp: +8801771249744
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!---
 alvi75/alvi75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
