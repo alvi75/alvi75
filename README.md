@@ -66,7 +66,7 @@
 </p>
 
 ## Other Website Handles
-[<img src="https://img.shields.io/badge/alvi75-000?style=for-the-badge&logo=gitlab">](https://gitlab.com/alvi75)[<img src="https://img.shields.io/badge/md-zahidul-haque-6298781a7-000?style=for-the-badge&logo=LINKEDIN&logoColor=0077B5">](https://www.linkedin.com/in/md-zahidul-haque-6298781a7/)
+[<img src="https://img.shields.io/badge/alvi75-000?style=for-the-badge&logo=gitlab">](https://gitlab.com/alvi75)[<img src="https://img.shields.io/badge/md-zahidul-haque-000?style=for-the-badge&logo=LINKEDIN&logoColor=0077B5">](https://www.linkedin.com/in/md-zahidul-haque-6298781a7/)
 
 <p align="center"> 
   Visitors count<br>
