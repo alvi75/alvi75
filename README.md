@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **zahidul.haque@sec.ac.bd** -->
 
- -->
+<!--  --> -->
 #### Hi Everyone,
 
 I am currently working in Bengali.AI. Besides I worked in Graaho Technologies and also Former Research Engineer of Mayalogy Limited, completed his BSc Engineering degree in Computer Science and Engineering from Sylhet Engineering College, Sylhet, Bangladesh. My current research interest includes Natural Language Processing, Romanized Bangla for Medical Patient Text, Entity Linking, and Computer Vision. [reach me](zahidul.haque@sec.ac.bd)
