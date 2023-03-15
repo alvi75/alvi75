@@ -16,13 +16,13 @@
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=alvi75&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p> -->
 
-- 🔭 I’m currently working on [Bengali.AI](https://bengali.ai/)
+<!-- - 🔭 I’m currently working on [Bengali.AI](https://bengali.ai/)
 
 - 👯 I’m looking to collaborate on **robust NLP datasets and models**
 
 - 💬 Ask me about **undergrad thesis and paper writing**
 
-- 📫 How to reach me **zahidul.haque@sec.ac.bd**
+- 📫 How to reach me **zahidul.haque@sec.ac.bd** -->
 
  -->
 #### Hi Everyone,
