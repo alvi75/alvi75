@@ -13,7 +13,7 @@ I am currently working in Bengali.AI. Besides I worked in Graaho Technologies an
 <p align="center">
 <img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
 <p align="center">
-<a href="https://open.spotify.com/user/31nvl4vzu6lhys3zfkxzf3avyamm"><img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
+<a href="https://open.spotify.com/user/31nvl4vzu6lhys3zfkxzf3avyamm"><img src="https://alvi75-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
 </p>
 </p>
 
