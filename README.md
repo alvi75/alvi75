@@ -68,7 +68,7 @@
 
 ## My Workplace
 
-<img src="https://img.shields.io/badge/Environment-424242?style=for-the-badge&logo=openlayers&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Manjaro-000000?style=for-the-badge&logo=manjaro&logoColor=35BF5C"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/VS Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"><img src="https://img.shields.io/badge/Manjaro-000000?style=for-the-badge&logo=manjaro&logoColor=35BF5C"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
 
 ## Other Website Handles
 [<img src="https://img.shields.io/badge/alvi75-000?style=for-the-badge&logo=gitlab">](https://gitlab.com/alvi75)[<img src="https://img.shields.io/badge/mdzahidulhaque-000?style=for-the-badge&logo=LINKEDIN&logoColor=0077B5">](https://www.linkedin.com/in/md-zahidul-haque-6298781a7/)
