@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alvi</h1>
 <h3 align="center">A passionate applied machine learning and deep learning enthusiast</h3>
+<p align=left>
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=alvi75&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=alvi75&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+  <br><br><br>
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=alvi75&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvi75&label=Profile%20views&color=0e75b6&style=flat" alt="alvi75" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvi75" alt="alvi75" /></a> </p>
 
 - 🔭 I’m currently working on [Bengali.AI](https://bengali.ai/)
 
@@ -42,12 +45,6 @@
 <img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi75&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=alvi75&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p> -->
-<p align=left>
-      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=alvi75&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=alvi75&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-  <br><br><br>
-  <!--<img src="https://activity-graph.herokuapp.com/graph?username=alvi75&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
-</p>
 
 <p align="center"> 
   Visitors count<br>
