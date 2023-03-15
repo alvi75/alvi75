@@ -31,6 +31,24 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvi75&" alt="alvi75" /></p>
 
+<p align = "center">
+<img height="200" src="https://github-profile-trophy.vercel.app/?username=alvi75&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
+<!--    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi75&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a> -->
+<p/>
+<!--- dracula base : #282a36 font : #ff79c6 -->
+<!-- <p align="left">
+<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi75&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
+<img  height= "200"src="https://github-readme-stats.vercel.app/api?username=alvi75&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
+</p> -->
+<p align=left>
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=alvi75&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=alvi75&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+  <br><br><br>
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=alvi75&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
+</p>
+
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/alvi75/count.svg" />
