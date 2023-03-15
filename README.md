@@ -69,6 +69,7 @@
 ## Stuff I have tried so far
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=Powershell&logoColor=5391FE">
+
 <img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF"><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=092E20"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF">
 <!--<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB">-->
 
