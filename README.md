@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zahidul.haque@sec.ac.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X2_WGFhG9Co0B88B6tklC1xOLs_sppAK/view?usp=sharing](https://drive.google.com/file/d/1X2_WGFhG9Co0B88B6tklC1xOLs_sppAK/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1X2_WGFhG9Co0B88B6tklC1xOLs_sppAK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
