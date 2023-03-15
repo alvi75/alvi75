@@ -10,12 +10,12 @@ I am currently working in Bengali.AI. Besides I worked in Graaho Technologies an
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=alvi75&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
 <p align="center">
 <a href="https://open.spotify.com/user/31nvl4vzu6lhys3zfkxzf3avyamm"><img src="https://alvi75-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
 </p>
-</p>
+</p> -->
 
 ## Stuff I have tried so far
 
