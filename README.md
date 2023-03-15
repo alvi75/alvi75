@@ -15,16 +15,19 @@
 <img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi75&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=alvi75&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p> -->
-<!-- 
+
 - 🔭 I’m currently working on [Bengali.AI](https://bengali.ai/)
 
 - 👯 I’m looking to collaborate on **robust NLP datasets and models**
 
 - 💬 Ask me about **undergrad thesis and paper writing**
 
-- 📫 How to reach me **zahidul.haque@sec.ac.bd** -->
+- 📫 How to reach me **zahidul.haque@sec.ac.bd**
 
-I am currently working with Bengali.AI. Besides I worked in Graaho Technologies and also Former Research Engineer of Mayalogy Limited, completed his BSc Engineering degree in Computer Science and Engineering from Sylhet Engineering College, Sylhet, Bangladesh. My current research interest includes Natural Language Processing, Romanized Bangla for Medical Patient Text, Entity Linking, and Computer Vision. [reach me out] (zahidul.haque@sec.ac.bd)
+
+#### Hi Everyone,
+
+I am currently working in Bengali.AI. Besides I worked in Graaho Technologies and also Former Research Engineer of Mayalogy Limited, completed his BSc Engineering degree in Computer Science and Engineering from Sylhet Engineering College, Sylhet, Bangladesh. My current research interest includes Natural Language Processing, Romanized Bangla for Medical Patient Text, Entity Linking, and Computer Vision. [reach me](zahidul.haque@sec.ac.bd)
 
 <!-- - 📄 Know about [my experiences](https://drive.google.com/file/d/1X2_WGFhG9Co0B88B6tklC1xOLs_sppAK/view?usp=sharing) -->
 
