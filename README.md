@@ -10,6 +10,15 @@ I am currently working in Bengali.AI. Besides I worked in Graaho Technologies an
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=alvi75&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
+<p align="center"><img src="https://i.ibb.co/Jq5YZB0/forgit.png"></p><br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
+<p align="center">
+<a href="https://open.spotify.com/user/Zahidul.haque"><img src="https://alvi75-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
+</p>
+</p>
+
 ## Stuff I have tried so far
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=Powershell&logoColor=5391FE">
