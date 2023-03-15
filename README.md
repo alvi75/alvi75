@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvi75&show_icons=true&locale=en" alt="alvi75" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvi75&" alt="alvi75" /></p>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/alvi75/count.svg" />
+</p>
