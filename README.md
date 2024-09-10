@@ -1,6 +1,6 @@
 #### Hi Everyone,
 
-Currently working as a Graduate Teaching Assistant at William & Mary. Former Software Engineer at Graaho Technologies and also Former Research Engineer of Mayalogy Limited, completed his BSc Engineering degree in Computer Science & Engineering from Sylhet Engineering College, Sylhet, Bangladesh. Current research interest includes Natural Language Processing, Romanized Bangla for Medical Patient Text, Entity Linking, and Computer Vision. reach me out **mhaque@wm.edu**
+Currently working as a Graduate Teaching Assistant at William & Mary. Former Software Engineer at Graaho Technologies and also Former Research Engineer of Mayalogy Limited, completed his BSc Engineering degree in Computer Science & Engineering from Sylhet Engineering College, Sylhet, Bangladesh. Current research interest is Optimization of LLM Systems. reach me out **mhaque@wm.edu**
 
 
 <p align=left>
