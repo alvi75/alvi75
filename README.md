@@ -7,7 +7,7 @@ This past summer I was a Data Scientist Intern on the Computational Science and 
 ## Papers
 
 - **Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks** (TOSEM, 2026). [arXiv](https://arxiv.org/abs/2601.15094) · [code](https://github.com/alvi75/MultiTask-QLoRA-NFAnalysis)
-- **A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models** (TOSEM, 2026; joint first author). [paper](https://doi.org/10.1145/3796522) · [arXiv](https://arxiv.org/abs/2504.21569) · [code](https://github.com/alvi75/SLR-PEFT)
+- **A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models** (TOSEM, 2026; joint first author). [paper](https://dl.acm.org/doi/10.1145/3796522) · [code](https://github.com/alvi75/SLR-PEFT)
 - **Quantize with Confidence? An Empirical Study of Quantization for Code Generation** (arXiv, 2026). [arXiv](https://arxiv.org/abs/2607.14181)
 - **B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation** (IEEE Access, 2023). [paper](https://doi.org/10.1109/ACCESS.2023.3267746)
 
