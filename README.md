@@ -42,5 +42,5 @@ This past summer I was a Data Scientist Intern on the Computational Science and 
 
 <p align="center">
   Visitors count<br>
-  <img src="https://komarev.com/ghpvc/?username=alvi75&color=61dafb&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://hits.sh/github.com/alvi75.svg?style=for-the-badge&color=61dafb&label=profile%20views" />
 </p>
