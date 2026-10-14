@@ -14,8 +14,6 @@
 
 I'm a PhD student in Computer Science at William & Mary, in the AURA Lab with Prof. Antonio Mastropaolo. I work on large language models for code: how to fine-tune them cheaply (LoRA/QLoRA, multi-task), and more recently what quantization does to the code they write, including its security.
 
-This past summer I was a Data Scientist Intern on the Computational Science and Engineering for Energy (CSEE) team at Halliburton – Landmark in Houston. This fall I'm a TA for COLL 100 (Prompt Engineering).
-
 <p align="left">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=alvi75&theme=tokyonight&border=61dafb&hide_border=true" />
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=alvi75&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
