@@ -23,7 +23,7 @@ I'm a PhD student in Computer Science at William & Mary, in the AURA Lab with Pr
 
 - <img src="https://img.shields.io/badge/TOSEM-2026-fbbf24?style=flat-square"> **Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks**. [arXiv](https://arxiv.org/abs/2601.15094) · [code](https://github.com/alvi75/MultiTask-QLoRA-NFAnalysis)
 - <img src="https://img.shields.io/badge/TOSEM-2026-fbbf24?style=flat-square"> **A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models** (joint first author). [paper](https://dl.acm.org/doi/10.1145/3796522) · [code](https://github.com/alvi75/SLR-PEFT)
-- <img src="https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square"> **Quantize with Confidence? An Empirical Study of Quantization for Code Generation**. [arXiv](https://arxiv.org/abs/2607.14181)
+- <img src="https://img.shields.io/badge/ICSME-2026-6f42c1?style=flat-square"> **Quantize with Confidence? An Empirical Study of Quantization for Code Generation**. [arXiv](https://arxiv.org/abs/2607.14181)
 - <img src="https://img.shields.io/badge/IEEE%20Access-2023-00629B?style=flat-square"> **B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation**. [paper](https://doi.org/10.1109/ACCESS.2023.3267746)
 
 ## Stuff I work with
